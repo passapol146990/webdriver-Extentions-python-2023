@@ -1,6 +1,7 @@
 # webdriver-Extentions-python-2023
 How use Extentions in Webdriver on python selenium
-
+<img src="Screenshot 2023-10-28 105728.jpg">
+<hr>
 1.Download Extention on any Broser.
   1.1.get https://chrome.google.com/webstore/category/extensions
   1.2.add extention
