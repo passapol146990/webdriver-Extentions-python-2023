@@ -19,5 +19,10 @@ How use Extentions in Webdriver on python selenium
   3.1.get url edge://extensions/ or Chrome://extensions/
   3.2.open mode developer
   3.3.packe Extention // แพ็คส่วนขยาย
-  3.4.download one by one Extention select pack Extention and path to use copy file 
+  3.4.Download one by one Extention select pack Extention and path to you copy file
+  3.5.sele path and Download
+4.Use Extention to webdriver
+  4.1.open file choice 3.5
+  4.2.copy file .crx and paste(ctrl+v) to Project webdriver
+<a href="https://youtu.be/RPintA3sL0w">See to Video : How to use Extention google store to webdriver 2023</a>
 </pre>
