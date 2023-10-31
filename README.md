@@ -8,7 +8,7 @@ How use Extentions in Webdriver on python selenium
 </div>
 <hr>
 <pre>
-1.Download Extention on any Broser.
+1.Download Extention on any Browser.
   1.1.get https://chrome.google.com/webstore/category/extensions
   1.2.add extention
   1.3.get url edge://extensions/ or Chrome://extensions/
